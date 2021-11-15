@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on **Discord bot Projects**
 - 💬 Ask me about **Discord bots**
 - 📫 How to reach me: 
-            Discord: **General Hello#0101**
+            Discord: **General Koala#0101**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I am younger than you** 😉
 
