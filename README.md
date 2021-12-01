@@ -11,3 +11,7 @@
 My stats: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doom306&show_icons=true&theme=radical)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Doom306)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=Doom306)](https://github.com/anuraghazra/github-readme-stats)
