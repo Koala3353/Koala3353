@@ -10,6 +10,6 @@
 
 My stats: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doom306&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doom306&show_icons=true&theme=chartreuse-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doom306&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
