@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/986136b0-1846-407d-98bf-6419adad41cb.svg)](https://wakatime.com/@986136b0-1846-407d-98bf-6419adad41cb)
+![Profile views](https://gpvc.arturio.dev/doom306)
 
 ### Hi there 👋
 
