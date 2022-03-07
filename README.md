@@ -15,9 +15,9 @@ My stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doom306&show_icons=true&theme=chartreuse-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doom306&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doom306&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=General_Koala)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=General_Koala&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Doom306&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
