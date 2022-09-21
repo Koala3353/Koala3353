@@ -22,4 +22,4 @@
 # Github Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Doom306&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=discord,java,idea,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,java,idea,github,gradle,sqlite,unreal,cpp)](https://skillicons.dev)
