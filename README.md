@@ -3,10 +3,10 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java**, **Unreal Engine** and **C++**
 - 💬 If you want me to make you a discord bot, feel free to contact me.
 - 📫 How to reach me: 
-            Discord: **General Koala#3627**
+            Discord: **General Koala#0229**
             Email: **brigadokeene@gmail.com**
 
 # Github stats 
