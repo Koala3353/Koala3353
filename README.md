@@ -16,7 +16,7 @@
 # Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doom306&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 # Wakatime Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=General_Koala&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=General_KoalaA&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Doom306&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 # Github Streak
