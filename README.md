@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning **Java**, **Unreal Engine** and **C++**
 - 💬 If you want me to make you a discord bot, feel free to contact me.
 - 📫 How to reach me: 
-            Discord: **General Fish#4727**
-            Email: **brigadokeene@gmail.com**
+            Discord: **Koala#3353**
 
 # Github stats 
 
