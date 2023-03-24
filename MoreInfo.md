@@ -9,5 +9,5 @@ When you order a bot from me, you can expect:
 - Optional hosting starting at $3 per month<p>
   
 Payment is accepted via PayPal or cryptocurrency. My prices typically range from $50 to $250 (although in rare cases it reaches up to $600), depending on the complexity and estimated development time of the bot. I'll be happy to provide you with a quote once we've discussed your requirements.<p>
-If you'd like to view some of my previous work, you can check out my portfolio on GitHub: https://github.com/Doom306.
+If you'd like to view some of my previous work, you can check out my portfolio on GitHub: [here](https://github.com/Koala3353).
 To get started, please feel free to contact me on Discord (Koala#3353) or [Reddit](https://www.reddit.com/user/General_Doom_101) to inquire about my services or try out one of my bots.
