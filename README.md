@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning **Java**, **Unreal Engine** and **C++**
-- 💬 If you want me to make you a discord bot, feel free to contact me.
+- 💬 If you want me to make you a discord bot, feel free to contact me. Click [here](https://github.com/Doom306/Doom306/blob/main/MoreInfo.md) for more info.
 - 📫 How to reach me: 
             Discord: **Koala#3353**
 
