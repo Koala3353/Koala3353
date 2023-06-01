@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning **Unreal Engine** and **C++**
+- 🌱 I’m currently learning **Web development**
 - 💬 If you want me to make you a discord bot, feel free to contact me. Click [here](https://github.com/Koala3353/Koala3353/blob/main/MoreInfo.md) for more info.
 - 📫 How to reach me: 
             Discord: **Koala#3353**
