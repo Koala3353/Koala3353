@@ -9,8 +9,8 @@
             Discord: **koala_3353**
 
 ## Recent projects
-[SPARK website](https://github.com/Koala3353/FLL-website): A website for the open category in a FLL contest last February 2023.
-[TRF discord bot](https://github.com/Koala3353/TRF_Bot): A discord bot to retrieve and input info to an [Airtable](https://github.com/Koala3353/TRF_Bot) based on events in the Discord server.
+- [SPARK website](https://github.com/Koala3353/FLL-website): A website for the open category in a FLL contest last February 2023.
+- [TRF discord bot](https://github.com/Koala3353/TRF_Bot): A discord bot to retrieve and input info to an [Airtable](https://github.com/Koala3353/TRF_Bot) based on events in the Discord server.
 
 # Github stats 
 
