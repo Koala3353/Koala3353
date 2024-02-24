@@ -8,6 +8,9 @@
 - 📫 How to reach me: 
             Discord: **Koala#3353**
 
+## Recent projects
+[SPARK website](https://github.com/Koala3353/FLL-website): A website for the open category in a FLL contest last February 2023.
+
 # Github stats 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koala3353&show_icons=true&theme=chartreuse-dark)
