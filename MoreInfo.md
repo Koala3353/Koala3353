@@ -1,18 +1,33 @@
-## Greetings! 
-As an experienced Discord bot developer with a proven track record of over 30 successful projects, I'm here to offer my services to create a custom bot that will meet your server's specific needs.<p>
-My skills and expertise include developing bots with features such as auto-translation, moderation, currency, ticket and logging management, music with voice-related capabilities, web scraping, API interaction, RPG, and database implementation. My bots are designed to perform exceptionally and cater to your server's unique requirements.<p>
-My latest project was developed for TRF, a highly active and growing server. I'm proud to say that the bot I created has been received with great enthusiasm and is being used daily by many of the server's members.<p>
-## When you order a bot from me, you can expect:
-- Personalization to your precise specifications
-- Complimentary bug fixes and minor changes
-- Use of cutting-edge features such as slash commands, context menus, buttons, threads, modals, and auto-complete
-- High performance and reliability
-- Optional hosting starting at $3 per month<p>
-## Reviews:<p>
-- I like how you were able to make the bot in a reasonable timeframe and you were willing to answer any questions and help even after the bot was finished. - Otto_294#2806<p>
-- Great service. Extremely helpful and very fast. Would recommend. - Hayden#0404<p>
-- Delivered a project for me exactly as I wanted it and tweaked some extra changes I asked for. Extremely professional and would definitely recommend! - .Wise#0001<p>
-## Other information:
-Payment is accepted via PayPal or cryptocurrency. My prices typically range from $50 to $250 (although in rare cases it reaches above $250), depending on the complexity and estimated development time of the bot. I'll be happy to provide you with a quote once we've discussed your requirements.<p>
-If you'd like to view some of my previous work, you can check out my portfolio on [Github](https://github.com/Koala3353).<p>
-To get started, please feel free to contact me on [Discord](https://discord.gg/dUmSutjnrb) (Koala#3353) or [Reddit](https://www.reddit.com/user/General_Doom_101) to inquire about my services or try out one of my bots.
+Greetings! As a seasoned Discord bot developer with a successful track record of over 30 projects, I offer comprehensive services to create a custom bot tailored to your Discord server's needs.<p>
+
+My expertise spans a wide range of features, including auto-translation, moderation, currency systems, ticket and logging management, music with voice-related capabilities, web scraping, API integration, RPG elements, database implementation, crypto-related functions, website creation, and more. I ensure that each bot is meticulously crafted to exceed your server's unique requirements.<p>
+
+One of my recent major community projects was developed for TRF, a highly active and growing server. The bot I created has garnered enthusiastic feedback and is utilized daily by many members of the server.<p>
+
+## What you can expect when you choose my services:
+
+**Personalized Solutions**: Tailored to your precise specifications.<p>
+
+**Ongoing Support**: Complimentary bug fixes and minor adjustments.<p>
+
+**Cutting-Edge Features**: Utilizing the latest Discord features like slash commands, context menus, buttons, threads, modals, and auto-complete.<p>
+
+**Performance and Reliability**: Ensuring high performance and stability.<p>
+
+**Optional Hosting**: Starting at $3 per month for hassle-free management.<p>
+
+## Here are some reviews from satisfied clients:
+
+"I appreciate the timely development of the bot and the readiness to assist even after completion." - otto_294 (Discord)<p>
+
+"Exceptional service. Incredibly helpful and efficient. Highly recommended." - Hayden#0404<p>
+
+"Delivered precisely what I wanted and accommodated additional changes with professionalism. Highly recommended!" - .wise (Discord)<p>
+
+### Payment is accepted via PayPal or cryptocurrency, with prices typically ranging from $50 to $250 depending on complexity. For more intricate bots, prices may exceed $250. Feel free to reach out for a personalized quote.
+
+If you're interested in viewing my past work, explore my portfolio on GitHub: GitHub Portfolio.<p>
+
+### In addition to Discord bot development, I also offer website creation and dashboard development services to complement your server's ecosystem. Whether you need a sleek landing page or a comprehensive administrative dashboard, I've got you covered.
+
+To discuss your requirements and initiate a project, contact me on Discord (koala_3353) or via [Reddit](https://www.reddit.com/user/General_Doom_101/). Let's bring your Discord server to the next level!
