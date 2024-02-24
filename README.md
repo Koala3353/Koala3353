@@ -6,10 +6,11 @@
 - 🌱 I’m currently learning **Web development**
 - 💬 If you want me to make you a discord bot, feel free to contact me. Click [here](https://github.com/Koala3353/Koala3353/blob/main/MoreInfo.md) for more info.
 - 📫 How to reach me: 
-            Discord: **Koala#3353**
+            Discord: **koala_3353**
 
 ## Recent projects
 [SPARK website](https://github.com/Koala3353/FLL-website): A website for the open category in a FLL contest last February 2023.
+[TRF discord bot](https://github.com/Koala3353/TRF_Bot): A discord bot to retrieve and input info to an [Airtable](https://github.com/Koala3353/TRF_Bot) based on events in the Discord server.
 
 # Github stats 
 
