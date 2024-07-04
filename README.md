@@ -10,7 +10,8 @@
 ## Recent projects
 - [SPARK website](https://github.com/Koala3353/FLL-website): A website for the open category in a FLL contest last February 2024 and updated for the FLL Euro Championship on May 2024.
 - [TRF discord bot](https://github.com/Koala3353/TRF_Bot): A discord bot to retrieve and input info to an [Airtable](https://github.com/Koala3353/TRF_Bot) based on events in the Discord server.
-- [Music app](https://github.com/Koala3353/SPARK-app): An app designed for people who want to learn a musical instrument. The app is equipped with an accurate AI-powered chord detection engine, which helps users to learn and practice playing chords accurately. 
+- [Music app](https://github.com/Koala3353/SPARK-app): An app designed for people who want to learn a musical instrument. The app is equipped with an accurate AI-powered chord detection engine, which helps users to learn and practice playing chords accurately.
+- [Bakery Shop website](https://github.com/Koala3353/bakery-website): The main components of the website are a homepage to show expertise in making custom cakes, a portfolio page for clients to easily find past works based on the theme they want, and a blog page for the author to post recipe tutorials / limited time promos.
 
 # Github stats 
 
