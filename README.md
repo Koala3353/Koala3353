@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning **Web development**
-- 💬 If you want me to make you a discord bot, feel free to contact me. Click [here](https://github.com/Koala3353/Koala3353/blob/main/MoreInfo.md) for more info.
+- 💬 If you want me to make you a discord bot or a custom website, feel free to contact me. Click [here](https://github.com/Koala3353/website-shop) for more info.
 - 📫 How to reach me: 
             Discord: **koala_3353**
 
