@@ -6,6 +6,7 @@
 - 💬 If you want me to make you a discord bot or a custom website, feel free to contact me. Click [here](https://koala3353.github.io/website-shop/) for more info. ([Github link of website](https://github.com/Koala3353/website-shop))
 - 📫 How to reach me: 
             Discord: **koala_3353**
+- 🤔 I've been programming since the age of 13. I've started freelancing at the age of 14 and earned over $2,000.
 
 ## Recent projects
 - [Portfolio website](https://github.com/Koala3353/my-portfolio): The website is a portfolio that'll showcase my projects and expertise. There will also be a page for the services I offer.
