@@ -28,6 +28,6 @@
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Koala3353&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 # Github Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Koala3353&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Koala3353)](https://git.io/streak-stats)
 # My Skills
 [![My Skills](https://skillicons.dev/icons?i=discord,java,idea,github,gradle,sqlite,unreal,cpp,css,bots,html,js,py,mongodb)](https://skillicons.dev)
