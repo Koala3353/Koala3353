@@ -6,7 +6,6 @@
 - 💬 If you want me to make you a discord bot or a custom website, feel free to contact me. Click [here](https://koala3353.github.io/website-shop/) for more info. ([Source code of website](https://github.com/Koala3353/website-shop))
 - 📫 How to reach me: 
             Discord: **koala_3353**
-- 🤔 I've been programming since the age of 13. I've started freelancing at the age of 14 and earned over $2,000.
 
 ## Recent projects
 - [Chess App](https://github.com/Koala3353/chess-tkinter): This is a simple chess game implemented using Python and the tkinter library for the graphical user interface (GUI). The game uses the [python-chess library](https://github.com/niklasf/python-chess) to handle the chess logic.
