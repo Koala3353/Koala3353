@@ -1,0 +1,17 @@
+name: Trigger Portfolio Update
+
+on:
+  push:
+    paths:
+      - 'BRIGADO-Resume.pdf'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Portfolio Rebuild
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          repository: Koala3353/portfolio
+          event-type: resume-updated
