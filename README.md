@@ -61,9 +61,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Keene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koala3353&show_icons=true&theme=chartreuse-dark)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Koala3353&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Koala3353&theme=dark)](https://git.io/streak-stats)
 
