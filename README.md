@@ -56,10 +56,22 @@ Currently pursuing a B.S. in Management Engineering at **Ateneo de Manila Univer
 
 ---
 
+### 🆕 New GitHub Projects
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[Splurge](https://github.com/Koala3353/splurge)** | Mobile-first bill splitting PWA with OCR receipt scanning, proportional splits, and payment tracking. | React, Vite, JavaScript |
+| **[Scht](https://github.com/Koala3353/scht)** | Invite-only, local-first school/work planner with offline persistence and curriculum imports. | TypeScript |
+| **[Budge](https://github.com/Koala3353/budge)** | Fast weekly budgeting app focused on frictionless transaction capture. | JavaScript |
+| **[TabiFlow Japan](https://github.com/Koala3353/tabiflow-japan)** | AI-powered trip planner that generates sourced itineraries, budgets, ETAs, and alternatives. | TypeScript |
+
+---
+
 ### 📫 Let's Connect
 I am open to consulting for **process automation**, **bespoke web development**, or **operational strategy**.
 
 * **LinkedIn:** [linkedin.com/in/keene-brigado](https://www.linkedin.com/in/keene-brigado)
+* **Portfolio:** [koala3353.github.io/portfolio](https://koala3353.github.io/portfolio/)
 * **Email:** brigadokeene@gmail.com
 * **Discord:** `koala_3353`
 
